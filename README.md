@@ -2,9 +2,9 @@ This is a Course project from Academind and their Reac.js course I took.
 
 This app is my version of the burger builder.
 
+<br>
 
 
-<!--
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -73,4 +73,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
--->
+
