@@ -2,7 +2,7 @@ This is a Course project from Academind and their Reac.js course I took.
 
 This app is my version of the burger builder.
 
-<br>
+___
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
