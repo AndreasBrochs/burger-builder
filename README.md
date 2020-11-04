@@ -8,6 +8,8 @@ Run **"npm install *--save* axios"**
 
 Run **"npm install *--save* react-router-dom"**
 
+Run **"npm install *--save* redux react-redux"**
+
 ___
 
 
