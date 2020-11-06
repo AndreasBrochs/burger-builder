@@ -10,6 +10,9 @@ Run **"npm install *--save* react-router-dom"**
 
 Run **"npm install *--save* redux react-redux"**
 
+Run **"npm install *--save* redux-thunk"**
+
+
 ___
 
 
