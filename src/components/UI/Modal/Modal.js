@@ -9,10 +9,6 @@ class Modal extends Component{
         return nextProps.show !== this.props.show || nextProps.children !== this.props.children;
     }
 
-    componentDidUpdate(){
-        console.log('[Modal] DidUpdate only when the modal is shown. no unnessesarily rerender of the modal when OrderSummary is changed')
-    }
-
     render() {
         return(  <Aux>
             <Backdrop show={this.props.show} clicked={this.props.modalClosed}/>
