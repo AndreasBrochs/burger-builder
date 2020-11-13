@@ -12,6 +12,7 @@ Run **"npm install *--save* redux react-redux"**
 
 Run **"npm install *--save* redux-thunk"**
 
+Run **npm install *--save* enzyme react-test-render enzyme-adapter-react-16**
 
 ___
 
